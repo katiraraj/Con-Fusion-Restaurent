@@ -1,0 +1,23 @@
+{
+  "name": "confusion",
+  "description": "Website for an awesome restaurent",
+  "main": "home.html",
+  "keywords": [
+    "confusion",
+    "Fusion",
+    "Restaurent"
+  ],
+  "authors": [
+    "Raj Katira"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+
+}
